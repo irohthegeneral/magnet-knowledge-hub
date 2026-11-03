@@ -31,6 +31,3 @@ Explore topics such as:
 
 This repository collects useful resources about magnets and magnetic technology for hobbyists, makers, engineers and anyone interested in magnetism.
 
-- Website: https://www.magneetjeskopen.nl/
-- Knowledge base: https://www.magneetjeskopen.nl/kennisbank/
-
